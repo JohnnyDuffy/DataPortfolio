@@ -5,7 +5,7 @@ Thanks for taking a look at my portfolio
 * Clean, Analyse, and Visualise publicly available data on Bike Sharing company
 * Here I use R to clean and reorganise the data, and Tableau to create visualisations and a dashboard
 <p align="center">
-<img src="Bike Share Case-study/resources/BikeDashboard.png" width="800" height="680">
+<img src="Bike Share Case-study/resources/BikeDashboard.png" width="800" height="650">
 </p>
 
 # [Crypto Market Analysis](https://github.com/JohnnyDuffy/Portfolio/blob/main/CryptoMarketAnalysis.py)
