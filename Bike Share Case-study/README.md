@@ -20,7 +20,9 @@ Weekdays we see a proportionaly higher amount of membership riders. This could b
 Here we can see that the share of users with memberships is much higher in the winter months (Dec, Jan, Feb). We can judge from this that casual usage is highly weather dependent. We can also see a large spike in March. It would be worth researching if there were any reasons why this could be, such as uncharacteristically good weather, or any large special events.
  
   </p>
-  *
+   *
+   *
+   *
   
   
 
@@ -39,7 +41,7 @@ From this we get the following results:
 2 member         714.1319 secs
 ```
 As we can see, the casual rider on average uses the bike for much longer than the rider with the annual membership. But how does this breakdown over the week?
-
+</p>
 <p align="center">
 <img src="resources/BikeDuration.png" width="650" height="490">
 </p>
