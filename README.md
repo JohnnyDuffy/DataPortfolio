@@ -16,6 +16,14 @@ Thanks for taking a look at my portfolio
 <img src="Crypto Market Analysis/CMA.png" width="800" height="610">
 </p>
 
+# [Portfolio Optimisation](https://github.com/JohnnyDuffy/DataPortfolio/blob/main/PortfolioOptimisation/PortfolioOptimiser.py)
+* Retrieves data for a user specified portfolio of stocks and crypto assets
+* Calculates returns and covariance
+* Generates 5000 portfolios and calculates optimum weighting
+<p align="center">
+<img src="PortfolioOptimisation/PO.png" width="550" height="410">
+</p>
+
 # [Regression: Analysing Honey Production Over Time](https://github.com/JohnnyDuffy/DataPortfolio/blob/main/LinearRegression/Regression.py)
 * Extracts and reorganises data with Python
 * Generates linear regression model using sklearn
