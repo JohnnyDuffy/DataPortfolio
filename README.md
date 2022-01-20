@@ -1,5 +1,6 @@
 ## Hello!
-Thanks for taking a look at my portfolio
+My name is Johnny, and I am building a portfolio of Data Analysis/Data science projects. I have proficiency in Python, R, SQL, and a particular interest in finance and cryptocurriency, feel free to send me a message at duffy.johnny@gmail.com
+Thanks!
 
 # [Bike Share Case-Study](https://github.com/JohnnyDuffy/DataPortfolio/tree/main/Bike%20Share%20Case-study)
 * Clean, Analyse, and Visualise publicly available data on Bike Sharing company
@@ -17,9 +18,10 @@ Thanks for taking a look at my portfolio
 </p>
 
 # [Portfolio Optimisation](https://github.com/JohnnyDuffy/DataPortfolio/blob/main/PortfolioOptimisation/PortfolioOptimiser.py)
-* Retrieves data for a user specified portfolio of stocks and crypto assets
+* Retrieves live data for a user specified portfolio of stocks and crypto assets
+* Organises and manipulates data with Pandas and NumPy
 * Calculates returns and covariance
-* Generates 5000 portfolios and calculates optimum weighting
+* Generates 5000 portfolios and calculates weighting for optimum risk adjusted returns
 <p align="center">
 <img src="PortfolioOptimisation/PO.png" width="550" height="410">
 </p>
