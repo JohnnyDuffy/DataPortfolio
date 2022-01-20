@@ -5,7 +5,7 @@ Here I took publicly available data from a Bike share company, and looked to ans
   * How do customers with annual memberships differ from one-time users?
   * What kind of trends do we notice in customer behaviour?
 
-After cleaning the data, I wanted to see breakdown how customers are using the bikes. 
+After cleaning the data, I wanted to breakdown how customers are using the bikes. 
 <p align="center">
 <img src="resources/BikeWeekday.png" width="650" height="440">
 </p>
