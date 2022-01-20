@@ -10,9 +10,9 @@ After cleaning the data, I wanted to see breakdown how customers are using the b
 <img src="resources/BikeWeekday.png" width="900" height="610">
 </p>
 We can see here how most bikes are rented on a Saturday, with the number of membership riders fairly constant through the week.
-Weekdays we see a proportionaly higher amount of membership riders. This could be because people are usuing them to commute, while 
+Weekdays we see a proportionaly higher amount of membership riders. This could be because people are useing them to commute.
 
-
+</p>
 <p align="center">
 <img src="resources/BikeMonth.png" width="900" height="610">
 </p>
