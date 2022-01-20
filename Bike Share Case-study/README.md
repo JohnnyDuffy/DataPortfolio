@@ -19,7 +19,7 @@ Weekdays we see a proportionaly higher amount of membership riders. This could b
 
 Here we can see that the share of users with memberships is much higher in the winter months (Dec, Jan, Feb). We can judge from this that casual usage is highly weather dependent. We can also see a large spike in March. It would be worth researching if there were any reasons why this could be, such as uncharacteristically good weather, or any large special events.
  
-  
+  </p></p></p>
   
 
 This R script compares the average ride durations of casual users and users with the annual membership:
