@@ -24,3 +24,6 @@ As we can see, the casual rider on average uses the bike for much longer than th
 <p align="center">
 <img src="resources/BikeDuration.png" width="900" height="610">
 </p>
+
+
+//Currently being edited//
