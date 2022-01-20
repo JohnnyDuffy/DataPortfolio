@@ -6,6 +6,20 @@ Here I took publicly available data from a Bike share company, and looked to ans
   * What kind of trends do we notice in customer behaviour?
 
 After cleaning the data, I wanted to see breakdown how customers are using the bikes. 
+<p align="center">
+<img src="resources/BikeWeekday.png" width="900" height="610">
+</p>
+We can see here how most bikes are rented on a Saturday, with the number of membership riders fairly constant through the week.
+Weekdays we see a proportionaly higher amount of membership riders. This could be because people are usuing them to commute, while 
+
+
+<p align="center">
+<img src="resources/BikeMonth.png" width="900" height="610">
+</p>
+
+Here we can see that the share of users with memberships is much higher in the winter months (Dec, Jan, Feb). We can judge from this that casual usage is highly weather dependent. We can also see a large spike in March. It would be worth researching if there were any reasons why this could be, such as uncharacteristically good weather, or any large special events.
+
+
 This R script compares the average ride durations of casual users and users with the annual membership:
 ```
 data %>%
@@ -22,17 +36,10 @@ From this we get the following results:
 ```
 As we can see, the casual rider on average uses the bike for much longer than the rider with the annual membership. But how does this breakdown over the week?
 
-
 <p align="center">
 <img src="resources/BikeDuration.png" width="900" height="610">
 </p>
 
-<p align="center">
-<img src="resources/BikeMonth.png" width="900" height="610">
-</p>
 
-<p align="center">
-<img src="resources/BikeWeek.png" width="900" height="610">
-</p>
 
 //Currently being edited//
