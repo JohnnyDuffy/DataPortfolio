@@ -1,4 +1,4 @@
-Here I took publicly available data from a Bike share company, and looked to answer a few questions:
+Here I took publicly available data from a Bike share company, and looked to answer a few questions:                         :warning: Work in Progress! :rescue_worker_helmet:
 
   * How do customers with annual memberships differ from one-time users?
   * What kind of trends do we notice in customer behaviour?
@@ -25,5 +25,12 @@ As we can see, the casual rider on average uses the bike for much longer than th
 <img src="resources/BikeDuration.png" width="900" height="610">
 </p>
 
+<p align="center">
+<img src="resources/BikeMonth.png" width="900" height="610">
+</p>
+
+<p align="center">
+<img src="resources/BikeWeek.png" width="900" height="610">
+</p>
 
 //Currently being edited//
