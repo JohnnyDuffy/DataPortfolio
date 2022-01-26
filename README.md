@@ -1,5 +1,5 @@
 ## Hello!
-My name is Johnny, and I am building a portfolio of Data Analysis/Data science projects. I have proficiency in Python, R, SQL, and a particular interest in finance and cryptocurriency, feel free to send me a message at duffy.johnny@gmail.com
+My name is Johnny, and I am building a portfolio of Data Analysis/Data science projects. I have proficiency in Python, R, SQL, and a particular interest in finance and cryptocurrency, feel free to send me a message at duffy.johnny@gmail.com
 Thanks!
 
 # [Bike Share Case-Study](https://github.com/JohnnyDuffy/DataPortfolio/tree/main/Bike%20Share%20Case-study)
