@@ -5,7 +5,7 @@ import numpy as np
 import pandas_datareader.data as web
 from datetime import datetime
 from matplotlib import pyplot as plt
-from resources.Functions import return_portfolios, optimal_portfolio  #These functions were not written by myself, but taken from an online resource
+from Functions import return_portfolios, optimal_portfolio  #These functions were not written by myself, but taken from an online resource
 
 # Specify timeframe
 start = datetime(2020,9,30)
